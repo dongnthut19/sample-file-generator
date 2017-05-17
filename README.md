@@ -4,6 +4,8 @@ Simple NodeJS app to auto-generate potentially thousands of sample documents.
 
 This was put together to stress testing integrations with cloud storage systems like (Dropbox, etc).
 
+![alt text](https://raw.githubusercontent.com/njcaruso/sample-file-generator/master/documentation/output.png)
+
 # Running
 
 Change configuration settings in `app\config.json`
