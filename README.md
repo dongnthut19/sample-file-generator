@@ -20,8 +20,6 @@ Change configuration settings in `app\config.json`:
 
 In the above example, if:
 
-levels = 0 => (10 * 12) = 120 samples
-
 levels = 1 => = 10 * ((10 * 12) + 12) = 1,320 samples
 
 levels = 2 => = 10 * (10 * ((10 * 12) + 12)) + 12 = 13,212 samples
